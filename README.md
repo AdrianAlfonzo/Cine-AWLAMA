@@ -9,10 +9,10 @@
 
 
 
-*** + Andy William***
+***-Andy William***
 
-*** + Luis Adrián***
+***-Luis Adrián***
 
-*** + Miguel Ángel***
+***-Miguel Ángel***
 
-*** + Carlos Castaneda***
+***-Carlos Castaneda***
