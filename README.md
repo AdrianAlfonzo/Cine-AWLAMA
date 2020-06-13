@@ -1,11 +1,17 @@
 # Cine AWLAMA
-Parcial Final de Programación Orientada a Objetos. Ingeniería en Desarrollo de Software. Ciclo 01.2020
+*`Parcial Final de Programación Orientada a Objetos.`*
+
+*Ingeniería en Desarrollo de Software.*
+
+*Ciclo 01.2020*
+
 
 Integrantes:
-Andy William
 
-Luis Adrián
++ Andy William
 
-Miguel Ángel
++ Luis Adrián
 
-Carlos Castaneda
++ Miguel Ángel
+
++ Carlos Castaneda
